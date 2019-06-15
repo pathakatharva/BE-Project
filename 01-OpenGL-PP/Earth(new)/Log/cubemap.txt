@@ -1,0 +1,4 @@
+cubemapLog File Is Successfully Opened.
+
+res/skyBoxes/galaxy_cubemap_dark/GalaxyTex_PositiveZ.tga
+width=2048,height=2048width=2048,height=2048width=2048,height=2048width=2048,height=2048width=2048,height=2048width=2048,height=2048

@@ -1,0 +1,13 @@
+texturename in fopen =body.tga
+ID_Length=0 
+ColorMapType= 0
+ImageType= 2
+firstEntryIndex=0
+colorMapLength=0
+colorMapEntrySize=0
+xOrigin=0
+yOrigin=0
+ImageWidth=1024
+ImageHeight =1024
+PixelDepth=24
+ImageDescriptor=0

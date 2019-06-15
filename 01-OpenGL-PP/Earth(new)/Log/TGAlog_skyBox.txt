@@ -1,0 +1,5 @@
+TgaLog File Is Successfully Opened.
+texturename in fopen =res/skyBoxes/galaxy_cubemap_dark/GalaxyTex_PositiveZ.tgawXh ==2048 2048 , 24 ,buffer size=12582912
+
+last element=253
+TgaLog File Is Successfully Closed.

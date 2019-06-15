@@ -1,0 +1,6 @@
+build/*
+Common/Config.h
+*.rule
+DATA/GLeeXMLGenInput/robots.txt
+DATA/GLeeXMLGenInput/registry/
+DATA/GLeeGenInput/extensions.xml

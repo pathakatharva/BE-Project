@@ -1,0 +1,30 @@
+myModel File Is Successfully Opened.
+
+
+in myObjLoader-------------------------------------------------------------------------------------
+OBJ File Is Successfully Loaded :).
+mtlFILEname : MyfinalEarth.mtl 
+useMtlname : EarthMaterial01 
+mtlname : EarthMaterial01
+mtl : EarthMaterial01
+str : EarthMaterial01
+in MAP_Ka----------------------------
+mtlAmbientFilename :  res/textures/Earth_textures/4096_night_lights.bmp
+ out MAP_Ka----------------------------
+
+
+in MAP_kd----------------------------
+mtlfilename :  res/textures/Earth_textures/4096_earth.bmp
+mtlfilenameSlashFormat : res/textures/Earth_textures/4096_earth.bmp
+out MAP_kd----------------------------
+
+in MAP_BUMP----------------------------
+mtlBumpFilename :  res/textures/Earth_textures/4096_normal.bmp
+ out MAP_BUMP----------------------------
+
+texture <vector> size=1
+FACECOUNT 4096 
+TOTAL face COUNT size 12288 
+ x=-858993460   y=-858993460   z=-858993460 
+temp x=0.000000  temp y=-0.997226 temp  z=0.000001meshoffset first  0 second  12288 
+out myObjLoader-------------------------------------------------------------------------------------

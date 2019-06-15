@@ -1,0 +1,27 @@
+TGALog File Is Successfully Opened.
+texturename in fopen =res/textures/Earth_textures/4096_clouds.tga
+ID_Length=0 
+ColorMapType= 0
+ImageType= 3
+firstEntryIndex=0
+colorMapLength=0
+colorMapEntrySize=0
+xOrigin=0
+yOrigin=0
+ImageWidth=4096
+ImageHeight =2048
+PixelDepth=8
+ImageDescriptor=0
+
+ID_Length=0 
+ColorMapType= 0
+ImageType= 3
+firstEntryIndex=0
+colorMapLength=0
+colorMapEntrySize=0
+xOrigin=0
+yOrigin=0
+ImageWidth=4096
+ImageHeight =2048
+PixelDepth=8
+ImageDescriptor=0
